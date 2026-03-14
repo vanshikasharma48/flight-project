@@ -311,8 +311,3 @@ Aspiring **Data Analyst | Python | SQL | Power BI | Tableau**
 
 ---
 
-💡 **This project demonstrates a complete end-to-end data analytics workflow used in real-world analytics roles.**
-
----
-
-✅ If you want, I can also show you **3 things that make this project look 10x more professional on GitHub (almost nobody does this but recruiters love it).**
